@@ -1,6 +1,7 @@
 # After Effects Require
 
 Function `require` compatible with [node.js](http://nodejs.org "Node.js").
+Could be used with [ae-node](https://github.com/coderaiser/ae-node "AE Node").
 
 ## Why?
 
