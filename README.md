@@ -12,7 +12,7 @@ It puts all modules to global scope. With `require` it could be avoided.
 ```js
 #include 'lib/require.js';
 
-var fs      = require('lib/fs');
+var fs      = require('lib/fs'),
     data    = fs.readFileSync('name');
 
 alert(data);
