@@ -1,7 +1,7 @@
 # Adobe ExtendScript Require
 
 Function `require` compatible with [node.js](http://nodejs.org "Node.js").
-Could be used with [ae-node](https://github.com/coderaiser/es-node "AE Node").
+Could be used with [es-node](https://github.com/coderaiser/es-node "AE Node").
 
 ## Why?
 
