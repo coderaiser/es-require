@@ -1,7 +1,7 @@
 {
-  "name": "ae require",
+  "name": "es require",
   "version": "1.0.0",
-  "description": "require for After Effects",
+  "description": "require for Adobe ExtendScript",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
