@@ -3,5 +3,6 @@
 feature:
 - (package) v1.0.1
 - (package) v1.0.1
+- (package) v1.0.1
 - (require) read files as utf-8
 
