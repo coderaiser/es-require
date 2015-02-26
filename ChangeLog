@@ -1,0 +1,5 @@
+2015.02.26, v1.0.1
+
+feature:
+- (require) read files as utf-8
+

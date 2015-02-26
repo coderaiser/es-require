@@ -1,6 +1,6 @@
 {
   "name": "es require",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "require for Adobe ExtendScript",
   "private": true,
   "scripts": {
