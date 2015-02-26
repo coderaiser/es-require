@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/coderaiser/ae-require.git"
+    "url": "git://github.com/coderaiser/es-require.git"
   },
   "author": "coderaiser <mnemonic.enemy@gmail.com> (http://coderaiser.github.io/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/coderaiser/ae-require/issues"
+    "url": "https://github.com/coderaiser/es-require/issues"
   },
-  "homepage": "https://github.com/coderaiser/ae-require"
+  "homepage": "https://github.com/coderaiser/es-require"
 }
