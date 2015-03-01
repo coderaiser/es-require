@@ -1,3 +1,13 @@
+2015.03.01, v1.0.3
+
+fix:
+- (require) require: exports is undefined
+
+feature:
+- (package) v1.0.2
+- (require) require: rm begin, end, add args
+
+
 2015.03.01, v1.0.2
 
 feature:
