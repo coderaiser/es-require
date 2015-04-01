@@ -18,6 +18,9 @@ var fs      = require('lib/fs'),
 
 alert(data);
 ```
+## See Also
+
+- [require for MongoDB](https://github.com/coderaiser/mongo-require "Mongo Require")
 
 ## License
 
