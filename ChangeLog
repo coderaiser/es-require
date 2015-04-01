@@ -1,3 +1,9 @@
+2015.04.01, v1.0.4
+
+fix:
+- (require) exports -> module.exports
+
+
 2015.03.01, v1.0.3
 
 fix:
